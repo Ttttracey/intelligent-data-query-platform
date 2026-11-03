@@ -8,10 +8,6 @@
 </p>
 
 <p align="center">
-  作者：<a href="https://github.com/Ttttracey"><strong>Ttttracey</strong></a> · 产品交互原型 · 求职作品展示
-</p>
-
-<p align="center">
   <a href="https://ttttracey.github.io/intelligent-data-query-platform/qa.html"><strong>体验智能问数 ↗</strong></a> ·
   <a href="https://ttttracey.github.io/intelligent-data-query-platform/"><strong>体验管理后台 ↗</strong></a>
 </p>
