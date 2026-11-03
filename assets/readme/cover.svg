@@ -2,11 +2,11 @@
 <defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#dfeae4" stroke-width=".7"/></pattern><linearGradient id="card" x2="1" y2="1"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#f1f7f4"/></linearGradient></defs>
 <rect width="1280" height="400" rx="24" fill="#f0f5f2"/><rect x="760" width="520" height="400" fill="url(#grid)"/>
 <path d="M0 0H10V400H0Z" fill="#168579"/>
-<g font-family="Segoe UI,Microsoft YaHei,PingFang SC,sans-serif"><text x="60" y="66" fill="#168579" font-size="13" font-weight="700" letter-spacing="3">PRODUCT DESIGN · INTERACTIVE PROTOTYPE</text>
+<g font-family="Segoe UI,Microsoft YaHei,PingFang SC,sans-serif"><text x="60" y="66" fill="#168579" font-size="13" font-weight="700" letter-spacing="3">PRODUCT PORTFOLIO · Ttttracey</text>
 <text x="56" y="152" fill="#203c33" font-size="57" font-weight="700">智能问数平台</text>
 <text x="60" y="201" fill="#586d65" font-size="21">从自然语言提问，到数据洞察与可视化</text>
-<text x="60" y="242" fill="#73887d" font-size="15">问数交互 · 分析过程 · 图表地图 · 数据管理后台</text>
-<g font-size="13" text-anchor="middle"><rect x="60" y="294" width="104" height="32" rx="16" fill="#168579"/><text x="112" y="315" fill="#fff">可点击原型</text><rect x="176" y="294" width="104" height="32" rx="16" fill="#e0ece5"/><text x="228" y="315" fill="#376454">脱敏展示</text><rect x="292" y="294" width="104" height="32" rx="16" fill="#e0ece5"/><text x="344" y="315" fill="#376454">双端体验</text></g>
+<text x="60" y="242" fill="#73887d" font-size="15">作者 Ttttracey · 问数交互 · 可视化结果 · 管理后台</text>
+<g font-size="13" text-anchor="middle"><rect x="60" y="294" width="104" height="32" rx="16" fill="#168579"/><text x="112" y="315" fill="#fff">可点击原型</text><rect x="176" y="294" width="104" height="32" rx="16" fill="#e0ece5"/><text x="228" y="315" fill="#376454">个人作品</text><rect x="292" y="294" width="104" height="32" rx="16" fill="#e0ece5"/><text x="344" y="315" fill="#376454">问数 + 后台</text></g>
 <rect x="783" y="58" width="436" height="284" rx="17" fill="url(#card)" stroke="#d0dfd6"/>
 <path d="M783 100H1219" stroke="#dce7e0"/><circle cx="805" cy="80" r="4" fill="#90b4a2"/><circle cx="820" cy="80" r="4" fill="#b8cec0"/><circle cx="835" cy="80" r="4" fill="#d1dfd6"/>
 <text x="859" y="85" fill="#547463" font-size="12">DATA QUERY WORKSPACE</text>
